@@ -1,0 +1,10 @@
+{
+  "name": "tanpalogin",
+  "description": "A multilingual Traditional Chinese Medicine diagnosis assistant and content builder using Gemini 2.5 Flash. Supports Indonesian, English, Sundanese, Javanese, and Acehnese.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
